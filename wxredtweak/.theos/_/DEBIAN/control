@@ -1,0 +1,10 @@
+Package: com.wildcat.wxredtweak
+Name: WXRedTweak
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: lixingle
+Author: lixingle
+Section: Tweaks
+Version: 0.0.1-24+debug
+Installed-Size: 144
