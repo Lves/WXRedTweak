@@ -6,8 +6,8 @@
 - utils：会陆续放逆向需要的工具
 - wxredtweak:抢红包源码
 
-###运行源码注意
-Makefile中的 `THEOS_DEVICE_IP = 192.168.220.195 ` IP地址需要换成自己越狱手机中的IP地址。
+### 注意
+运行源码时把Makefile中的 `THEOS_DEVICE_IP = 192.168.220.195 ` IP地址需要换成自己越狱手机中的IP地址。
 
 
 
