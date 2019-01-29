@@ -12,7 +12,7 @@
 
 
 ### 文章详解
-关于怎么一步步逆向微信自动抢红包可以查看以下三篇文章，欢迎Star.
+关于怎么一步步逆向微信自动抢红包可以查看以下三篇文章，<font color=#ff0000 size=30>欢迎Star</font>.
 
 - [iOS逆向实战(微信自动抢红包上)](https://github.com/Lves/WXRedTweak/blob/master/Articles/%E5%BE%AE%E4%BF%A1%E6%8A%A2%E7%BA%A2%E5%8C%85%E4%B8%8A.md)
 - [iOS逆向实战(微信自动抢红包中)](https://github.com/Lves/WXRedTweak/blob/master/Articles/%E5%BE%AE%E4%BF%A1%E6%8A%A2%E7%BA%A2%E5%8C%85%E4%B8%AD.md)
